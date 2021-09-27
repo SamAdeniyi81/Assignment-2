@@ -11,11 +11,16 @@ Creativity is encouraged!
 You should fill out this information before submitting your assignment.  Make sure to document the name and source of any third party assets such as 3D models, textures, or any other content used that was not solely written by you.  Include sufficient detail for the instructor or TA to easily find them, such as a download link.
 
 Name: 
-
+Sam Adeniyi
 UMN Email:
-
+adeni026@umn.edu
 Third Party Assets:
-
+Bench - https://clara.io/view/7b1fde09-7fb7-4453-b519-b7829fd754b1
+Football Stadium - https://clara.io/view/9e57c4d2-e00d-4281-ab9a-b6f965793d40
+Basic Daktronics Scoreboard - https://clara.io/view/ab2bd67e-7cf5-470f-a919-adebbd6dfec5
+Primitive People - https://assetstore.unity.com/packages/3d/characters/easy-primitive-people-161846
+NYZ Flag - https://clara.io/view/cc52ba11-e858-4538-b1e0-7753097758c5
+BillBoard - https://clara.io/view/4a037e01-a810-4497-baac-7f4b75bb70ff#
 ## Getting Started
 
 Clone the assignment using GitHub Classroom.  The project has been configured for the Oculus Quest, and the [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html) package has already been imported.  However, the project does not contain a scene file.  Your goal is to create a new scene using free 3D art assets found on the web, with the following requirements:
